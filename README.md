@@ -1,3 +1,3 @@
-# RNA-seq-analysis-R-
+# RNA-seq analysis with R
 
 #### daps
